@@ -1,0 +1,12 @@
+body {
+		font-family: 'Roboto Mono', monospace;
+}
+
+.caixa {
+	display: block;
+	width: 940px;
+	margin: auto;
+	padding: 20px;
+
+}
+

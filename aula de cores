@@ -1,0 +1,40 @@
+alfabeto nosso - abcdef
+
+binario - 01
+
+numerico - 0123456789
+
+
+Aula sobre cor em haxadecimal
+
+hexadecimal 0123456789ABCDEF
+
+RGB = Red Green Blue  - veja abaixo
+
+#_ _ _ _ _ _ (Colocamos uma # e mais 6 elementos, os dois primeiros pra marcar o VERMELHOR, os dois proximos VERDE e os dois ultimos para marcar a cor AZUL).
+
+0 = ausencia de cor
+
+F = Maximo de cor
+
+Para representar a cor PRETO em hexadecimal sera assim: #000000 (ausencia de red, green, blue)
+
+#000000 
+
+Para representar a cor BRANCO em hexadecimal sera assim: #FFFFFF (maximo de red, green, blue)
+
+#FFFFFF
+
+Sobre RGB
+
+RBG 0,1,2,3,...255
+
+0 = Ausencia
+255 = maxim0
+
+RGB branco (255,255,255)
+
+RGB AZUL (0,0,255)
+
+
+
